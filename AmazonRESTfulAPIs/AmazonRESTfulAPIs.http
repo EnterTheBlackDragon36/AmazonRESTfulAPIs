@@ -1,0 +1,6 @@
+@AmazonRESTfulAPIs_HostAddress = http://localhost:5035
+
+GET {{AmazonRESTfulAPIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
